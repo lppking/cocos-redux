@@ -1,0 +1,24 @@
+{
+  "name": "cocos-redux",
+  "version": "1.0.0",
+  "description": "在cocos-creator项目中使用redux作为状态管理模块",
+  "main": "index.js",
+  "dependencies": {
+    "redux": "^4.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lppking/cocos-redux.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lppking/cocos-redux/issues"
+  },
+  "homepage": "https://github.com/lppking/cocos-redux#readme"
+}
